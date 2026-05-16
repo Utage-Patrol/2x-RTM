@@ -7,7 +7,7 @@ There are nearly 5,700 RTM files contained in around 700 folders for the arma 3 
 
 # How do I use this?
 1. Place debinarized RTMs in the "debinarized_rtms" folder (folder structure will be kept, so you can also place entire folders here, e.g. anims_f)
-2. Edit the scale value in 2x-RTM.py to your desired size
+2. Edit the scale value in 2x-RTM.py to your desired size. 1.0 Represents default arma man proportions, you can scale up or down
 3. Run 2x-RTM.py
 4. All RTM files will be scaled to your specifized size and moved to the "output" folder
 
