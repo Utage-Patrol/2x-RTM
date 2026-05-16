@@ -7,7 +7,7 @@ In order to create custom-sized characters in Arma 3, you need to resize both yo
 
 # How do I use this?
 1. Download the ![latest release](https://github.com/Utage-Patrol/2x-RTM/releases)
-2. Place debinarized RTMs in the "debinarized_rtms" folder (folder structure will be kept, so you can also place entire folders here, e.g. anims_f)
+2. Place your debinarized RTMs in the "debinarized_rtms" folder (folder structure will be kept, so you can also place entire folders here, e.g. anims_f)
 3. Edit the scale value in 2x-RTM.py to your desired size. 1.0 represents default arma man proportions. You can scale up or down
 4. Run 2x-RTM.py
 5. All RTM files will be scaled to your specifized size and moved to the "output" folder
