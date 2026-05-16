@@ -1,5 +1,4 @@
 # 2x-RTM
-Tool for bulk scaling Arma 3's RTM files to any size.
 
 ![Imgur](http://i.imgur.com/j7ATViE.jpeg)
 
